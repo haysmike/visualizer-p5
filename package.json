@@ -1,0 +1,14 @@
+{
+  "name": "visualizer-p5",
+  "version": "0.0.1",
+  "description": "",
+  "main": "sketch.js",
+  "scripts": {
+    "dev": "python -m http.server --directory src 8000"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "prettier": "^2.5.1"
+  }
+}
